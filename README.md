@@ -1,37 +1,12 @@
-# 🎮 Devesh Dusane
+# 💫 About Me:
+🎮 Devesh Dusane<br>Game Developer | Unity (C#) & Phaser (JS)<br>Former Software Developer<br>Building 2D/3D games for browser and mobile<br><br>👋 About Me<br>🎯 Focused on game development and gameplay systems<br>🧠 Strong programming fundamentals from software development<br>🛠️ Unity, C#, Phaser, JavaScript, Java, Spring Boot, Hibernate, SQL  <br>🌱 Learning by building real games<br>🕹️ Game Development<br>🎮 2D Endless Runner (Unity, Phaser)<br>⭐ Player movement, collisions, UI systems<br>🌐 Browser & mobile-first games<br>📦 Repositories
 
-**Game Developer | Unity (C#) & Phaser (JS)**  
-Former Software Developer  
-Building 2D/3D games for browser and mobile
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devesh-dusane-bb4531249/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deveshdusane88@gmail.com) 
 
-## 👋 About Me
-- 🎯 Focused on game development and gameplay systems
-- 🧠 Strong programming fundamentals from software development
-- 🛠️ Unity, C#, Phaser, JavaScript
-- 🌱 Learning by building real games
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
----
 
-## 🕹️ Game Development
-- 🎮 2D Endless Runner (Unity, Phaser)
-- ⭐ Player movement, collisions, UI systems
-- 🌐 Browser & mobile-first games
-
----
-
-## 📦 Repositories
-- **Unity-Games** → Multiple Unity projects
-- **Phaser-Games** → Browser-based games
-- **Spring-Projects** → Previous software development work
-
----
-
-## 🌍 Links
-- 🎮 itch.io: https://deveshdusane.itch.io
-- 💼 LinkedIn: https://linkedin.com/in/devesh-dusane-bb4531249
-
----
-
-⭐ _Always learning. Always building._
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
