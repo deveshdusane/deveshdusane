@@ -73,7 +73,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/devesh-dusane-bb4531249"><img src="https://img.shields.io/badge/LinkedIn-Devesh%20Dusane-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://portfolio-lac-phi-5nlrnohoat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://myportfolio-lac-nu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://deveshdusane.itch.io"><img src="https://img.shields.io/badge/itch.io-Play%20My%20Games-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
   <a href="mailto:devesh@funcellgames.com"><img src="https://img.shields.io/badge/Email-devesh%40funcellgames.com-52b9c3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/deveshdusane"><img src="https://img.shields.io/badge/GitHub-deveshdusane-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
