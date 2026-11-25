@@ -2,21 +2,21 @@
      Files in the ROOT of the deveshdusane/deveshdusane repo:
        README.md, banner.svg, banner-light.svg, lanyard.svg, stats.svg, langs.svg, trophies.svg
      plus .github/workflows/github-snake.yml (writes the `output` branch).
-     If you edit an SVG, bump every ?v=3 below to ?v=3 to bust GitHub's image cache. -->
+     If you edit an SVG, bump every ?v=4 below to ?v=4 to bust GitHub's image cache. -->
 
 <div align="center">
 
 <!-- Animated hero banner, auto-switches with dark/light mode -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=3">
-  <img src="banner.svg?v=3" alt="Devesh Dusane, Generative AI Engineer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=4">
+  <img src="banner.svg?v=4" alt="Devesh Dusane, Generative AI Engineer" width="100%">
 </picture>
 
 <br><br>
 
 <!-- Swinging ID badge -->
-<img src="lanyard.svg?v=3" alt="Devesh Dusane ID badge" width="330">
+<img src="lanyard.svg?v=4" alt="Devesh Dusane ID badge" width="330">
 
 <br>
 
@@ -30,12 +30,12 @@
 <br>
 
 <!-- Local animated stat cards (no rate-limited third-party services) -->
-<img src="stats.svg?v=3" alt="GitHub stats" width="480">
-<img src="langs.svg?v=3" alt="Most used languages" width="480">
+<img src="stats.svg?v=4" alt="GitHub stats" width="480">
+<img src="langs.svg?v=4" alt="Most used languages" width="480">
 
 <br><br>
 
-<img src="trophies.svg?v=3" alt="Trophy cabinet" width="720">
+<img src="trophies.svg?v=4" alt="Trophy cabinet" width="720">
 
 </div>
 
