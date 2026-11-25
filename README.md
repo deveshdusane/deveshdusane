@@ -45,7 +45,7 @@
 
 | Project | What it solves | Built with |
 |---|---|---|
-| [🤖 TestMate AI](https://github.com/deveshdusane/testmate-ai) | Game QA tool: drop an APK, get a static audit (SDKs, permissions, security), a live ADB performance timeline, OCR screen checks and a test report | `Electron` `Node.js` `ADB` `OCR` |
+| [🤖 TestMate AI](https://github.com/deveshdusane/testmate-ai) | QA companion for testing game APKs faster: drop an APK, get a static audit (SDKs, permissions, security), a live ADB performance timeline, OCR screen checks and a test report | `Electron` `Node.js` `ADB` `OCR` |
 | [🧩 Match-3 Saga](https://github.com/deveshdusane/Match-3-Saga) | Full match-3 puzzle game with data-driven levels and goals, so new levels need no code | `Unity` `C#` |
 | [☕ Hotel Management API](https://github.com/deveshdusane/Spring-Projects/tree/master/hotelmanagement) | REST API for rooms, floors, customers and bookings, with rules that block overbooking | `Java` `Spring Boot` `JPA` |
 
